@@ -5,7 +5,7 @@ An AI-powered budgeting assistant for students that helps track income, expenses
 ---
 
 ## 🚀 Live App
-https://your-streamlit-app-link.streamlit.app
+[https://your-streamlit-app-link.streamlit.app](https://studentledger-ai-ugcie42dpa3mvbbntkjgcv.streamlit.app/)
 
 ---
 
