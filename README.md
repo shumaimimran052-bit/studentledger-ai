@@ -51,5 +51,10 @@ StudentLedger AI helps students by:
 ```bash
 pip install -r requirements.txt
 
+### Features:
+- Budget analysis
+- Savings calculation
+- Risk detection
+- AI suggestions
 ## Author
 Shumaim Imran
