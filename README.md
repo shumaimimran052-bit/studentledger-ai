@@ -1,61 +1,50 @@
-
-
 # 💰 StudentLedger AI
 
-## 📌 Overview
-StudentLedger AI is an AI-powered financial assistant designed to help university students, especially those living abroad or independently, manage their expenses and improve financial decision-making.
-
-It simplifies budgeting by using AI to analyze income and expenses and provide clear financial guidance.
+An AI-powered budgeting assistant for students that helps track income, expenses, savings, and provides smart financial insights.
 
 ---
 
-## 🎯 Problem
-Students often struggle with:
-- Managing limited budgets
-- Overspending without awareness
-- Lack of financial guidance while living independently
-- Difficulty tracking expenses properly
+## 🚀 Live App
+https://your-streamlit-app-link.streamlit.app
 
 ---
 
-## 💡 Solution
-StudentLedger AI helps students by:
-- Taking income and expense inputs
-- Using AI to analyze spending patterns
-- Providing:
-  - Budget breakdown
-  - Saving recommendations
-  - Overspending alerts
+## 📌 About the Project
+
+StudentLedger AI helps students manage their finances in a simple and interactive way. It allows users to:
+
+- Input monthly income and expenses
+- Track spending patterns
+- Calculate savings automatically
+- Get budgeting suggestions
+- Identify overspending risks
+
+The goal is to make financial awareness easy for students.
 
 ---
 
-## 🧠 Core Logic
-1. User enters income  
-2. User enters expenses  
-3. AI processes data using prompt-based logic  
-4. System returns financial advice and insights  
+## 🧠 Features
+
+- Income & expense tracking  
+- Savings calculation  
+- Budget analysis  
+- Risk detection (overspending alerts)  
+- Interactive Streamlit UI  
+- Clean user experience  
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
+
 - Python  
 - Streamlit  
-- OpenAI API (LLM)  
-- Python-dotenv  
+- GitHub  
+- OpenAI / API integration (if used)  
 
 ---
-### Features:
-- Budget analysis
-- Savings calculation
-- Risk detection
-- AI suggestions
 
-## 🚀 How to Run
+## ▶️ How to Run Locally
 
-### Install dependencies:
 ```bash
 pip install -r requirements.txt
-
-
-## Author
-Shumaim Imran
+streamlit run src/app.py
